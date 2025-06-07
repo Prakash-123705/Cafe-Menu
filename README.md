@@ -13,7 +13,7 @@ This is a simple HTML and CSS project that displays a stylish cafe menu for a fi
 ## 🌐 Live Preview
 
 You can view the live version of this project here:  
-[https://<your-username>.github.io/Cafe-Menu/]
+[https://prakash-123705.github.io/Cafe-Menu/]
 
 ## 📁 Technologies Used
 
@@ -25,7 +25,7 @@ You can view the live version of this project here:
 
 ## 👨‍💻 Author
 
-- [Your Name](https://github.com/<your-username>)
+(https://github.com/Prakash-123705)
 
 ## 🎓 Credit
 
